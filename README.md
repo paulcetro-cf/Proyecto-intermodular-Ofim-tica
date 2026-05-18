@@ -53,6 +53,18 @@ Incluye código de colores por estado (resuelta, en progreso, abierta, pendiente
 
 ---
 
+##  4. Presentación del sistema informático (PowerPoint)
+
+Presentación visual y profesional creada con Gamma que explica el sistema informático diseñado para Undergold. Incluye:
+
+- **Descripción de la empresa** — Actividad, clientes, equipo humano y datos clave
+- **Equipos informáticos** — Hardware principal: servidores Dell y HP, NAS Synology, 12 PCs HP EliteDesk y 4 portátiles ThinkPad
+- **Red de la empresa** — Topología con VLANs, firewall FortiGate, switch Cisco y puntos de acceso UniFi
+- **Sistemas operativos** — Windows 11 Pro en puestos de trabajo, Windows Server 2022 y Ubuntu Server 22.04 en servidores
+- **Ventajas del sistema** — Alta disponibilidad, seguridad perimetral, acceso remoto VPN, monitorización con Zabbix y copias de seguridad automáticas con Veeam
+
+---
+
 ##  Tecnologías representadas en el proyecto
 
 ![Windows](https://img.shields.io/badge/Windows_11_Pro-0078D6?style=flat&logo=windows&logoColor=white)
