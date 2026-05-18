@@ -14,10 +14,10 @@ Documentación completa del proyecto intermodular del primer curso del Ciclo For
 
 | Archivo | Descripción |
 |---|---|
-| `Undergold_Documento_Descriptivo.docx` | Documento Word con la descripción completa de la empresa |
-| `Undergold_Inventario_Equipos.xlsx` | Hoja de cálculo con el inventario de hardware y software |
-| `Undergold_Registro_Incidencias.xlsx` | Hoja de cálculo con el registro de incidencias informáticas |
-
+| `Proyecto Intermodular Ofimatica_Entregable 1_Nicky Cetro Fernandez` | Documento Word con la descripción completa de la empresa |
+| `Proyecto Intermodular Ofimatica_Entregable 2_Nicky Cetro Fernandez` | Hoja de cálculo con el inventario de hardware y software |
+| `Proyecto Intermodular Ofimatica_Entregable 3_Nicky Cetro Fernandez` | Hoja de cálculo con el registro de incidencias informáticas |
+| `Proyecto Intermodular Ofimatica_Entregable 4_Nicky Cetro Fernandez` | Hoja de cálculo con el registro de incidencias informáticas |
 ---
 
 ##  1. Documento descriptivo (Word)
